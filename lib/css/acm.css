@@ -17,6 +17,11 @@ header {
     background-image: url(https://pixabay.com/static/uploads/photo/2015/05/26/23/52/technology-785742__180.jpg);
 }
 
+#carousel{
+	height: 500px;
+
+}
+
 #header {
     text-align: center;
     font-size: 50px;
